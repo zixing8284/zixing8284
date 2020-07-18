@@ -5,9 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python      8 hrs 45 mins       █████████████████████░░░░   83.99 
-Markdown    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.09 
-Other       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 
-Sublime Text Config0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04
+Week #29 : July 13 - 18
+
+Python      10 hrs 4 mins       █████████████████████░░░░   85.79% 
+Markdown    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Other       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+Sublime Text Config0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 ```
 <!--END_SECTION:waka-->
