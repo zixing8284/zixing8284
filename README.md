@@ -5,7 +5,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 2 mins     █████████████████████████   99.89 % 
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python                1 hr 6 mins     █████████████████████████   100.00 % 
+Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
