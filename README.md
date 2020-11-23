@@ -5,6 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Text       10 mins         █████████████████████████   100.00 % 
+Text       13 mins         ██████████████████████▓░░   90.90 % 
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 <!--END_SECTION:waka-->
