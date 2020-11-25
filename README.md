@@ -5,7 +5,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Text       3 mins          █████████████████▒░░░░░░░   68.74 % 
-Markdown   1 min           ███████▓░░░░░░░░░░░░░░░░░   31.26 % 
+Sublime Text Config   1 hr 5 mins     ███████████████▒░░░░░░░░░   61.05 % 
+Markdown              27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 % 
+Text                  14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
 <!--END_SECTION:waka-->
