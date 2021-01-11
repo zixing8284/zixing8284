@@ -5,7 +5,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP      7 mins          ████████████████████░░░░░   80.48 % 
-Other    1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
