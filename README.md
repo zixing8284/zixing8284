@@ -5,6 +5,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 24 mins    ████████████████████████▓   98.94 % 
+PHP      14 mins         ███████████████████████▓░   94.03 % 
 ```
 <!--END_SECTION:waka-->
