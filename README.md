@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                8 hrs 50 mins   ██████████████████▒░░░░░░   73.20 % 
-Markdown              1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-VimL                  39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Other                 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Sublime Text Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                8 hrs 42 mins   ███████████████████░░░░░░   75.57 % 
+Markdown              1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Other                 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+VimL                  14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Sublime Text Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
