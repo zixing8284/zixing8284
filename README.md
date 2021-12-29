@@ -5,10 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP              16 hrs 35 mins  ██████████████▓░░░░░░░░░░   59.28 % 
-Markdown         4 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-HTML             3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-javascript_es6   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-html_es6         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Week: 22 December, 2021 - 28 December, 2021
+
+PHP          11 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.98 % 
+Markdown     6 hrs 41 mins   ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.86 % 
+HTML         4 hrs 41 mins   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.33 % 
+JavaScript   1 hr 32 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.01 % 
+html_es6     1 hr 28 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.80 % 
 ```
 <!--END_SECTION:waka-->
