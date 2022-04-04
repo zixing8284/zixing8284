@@ -14,3 +14,9 @@ Markdown     2 hrs 41 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 HTML         1 hr 7 mins     ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
 ```
 <!--END_SECTION:waka-->
+
+#### 僕の心拍数
+
+![](https://raw.githubusercontent.com/zixing8284/iBeats/main/files/heart.svg)
+
+今日もちゃんと生きてる。
