@@ -15,8 +15,3 @@ HTML         18 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-#### 僕の心拍数
-
-![](https://raw.githubusercontent.com/zixing8284/iBeats/main/files/heart.svg)
-
-今日もちゃんと生きてる。
