@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2022 - 21 September, 2022
+Week: 15 September, 2022 - 22 September, 2022
 
 Vue.js       15 hrs 58 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.07 % 
 JavaScript   14 hrs 3 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.89 % 
