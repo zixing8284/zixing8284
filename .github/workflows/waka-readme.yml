@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 3 * * *'
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -12,14 +12,11 @@ jobs:
     # The type of runner that the job will run on
     name: Update this repo's README
     runs-on: ubuntu-latest
-
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Waka - Readme
-      uses: athul/waka-readme@master
-
-
-      with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        SHOW_TITLE: true
-        BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+      - name: Waka - Readme
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
