@@ -1,22 +1,16 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
-  # This workflow contains a single job called "build"
   update-readme:
-    # The type of runner that the job will run on
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Waka - Readme
-        uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
