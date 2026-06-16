@@ -47,21 +47,16 @@ Sunday                   115 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               25 mins             ███████████████████░░░░░░   76.31 % 
-Image (svg)              4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-server                   33 mins             █████████████████████████   98.14 % 
-nogihoshi                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,6 +76,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zixing8284/zixing8284/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 19:46:54 UTC
+ Last Updated on 16/06/2026 19:45:07 UTC
 <!--END_SECTION:waka-->
 
