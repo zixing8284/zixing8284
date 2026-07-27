@@ -4,15 +4,15 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C348%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C350%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 365.5 kB Used in GitHub's Storage 
+> 📦 365.6 kB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 644 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,21 +23,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-🌆 Daytime                530 commits         █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌃 Evening                423 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-🌙 Night                  262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+🌞 Morning                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌆 Daytime                530 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌃 Evening                423 commits         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌙 Night                  262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Thursday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Monday                   255 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Friday                   215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Sunday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 
@@ -45,25 +45,6 @@ Sunday                   206 commits         ████░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               5 hrs 44 mins       ███████████████░░░░░░░░░░   61.36 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-CSS                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 21 mins       █████████████████████████   99.96 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🐱‍💻 Projects: 
-murasaki                 6 hrs 10 mins       ████████████████░░░░░░░░░   65.96 % 
-next-music-player        2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-ryos                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-
-💻 Operating System: 
-Mac                      9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,11 +59,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/zixing8284/zixing8284/master/assets/bar_graph.png)
-
-
- Last Updated on 26/07/2026 18:48:27 UTC
+ Last Updated on 27/07/2026 02:06:22 UTC
 <!--END_SECTION:waka-->
 
