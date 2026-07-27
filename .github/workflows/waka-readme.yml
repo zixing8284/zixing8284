@@ -19,3 +19,4 @@ jobs:
           SHOW_OS: false
           SHOW_LANGUAGE: false
           SHOW_LOC_CHART: false
+          SHOW_TIMEZONE: false
