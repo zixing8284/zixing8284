@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C208%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C209%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
@@ -46,25 +46,25 @@ Sunday                   205 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 50 mins (80.67%)
+⏱ AI Coding Time: 12 hrs 6 mins (80.29%)
 
-✍️ 3,212 lines written by AI, 88 lines written by hand (97.33% AI-written)
+✍️ 3,341 lines written by AI, 72 lines written by hand (97.89% AI-written)
 
-🔤 38,553,647 Input Tokens, 97,722 Output Tokens
+🔤 39,145,005 Input Tokens, 102,439 Output Tokens
 
-💵 $117.13 Estimated AI Cost This Week
+💵 $118.97 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 121 AI Prompts
+🧠 22 AI Sessions, 122 AI Prompts
 
-Mimo                     3,269 lines         ████████████████████████░   97.15 % 
-Github-Copilot           96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Mimo                     3,576 lines         ████████████████████████░   97.89 % 
+Github-Copilot           77 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.33% of written lines came from AI
-📝 Concise Prompter — average 206 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.85% of changed lines were hand-edited
+🤖 AI-Driven — 97.89% of written lines came from AI
+📝 Concise Prompter — average 287 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 4.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +80,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 18:48:42 UTC
+ Last Updated on 30/07/2026 18:58:22 UTC
 <!--END_SECTION:waka-->
 
