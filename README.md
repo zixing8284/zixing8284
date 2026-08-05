@@ -4,11 +4,11 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C214%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C216%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,25 +46,25 @@ Sunday                   255 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 31 mins (77.13%)
+⏱ AI Coding Time: 6 hrs 12 mins (71.96%)
 
-✍️ 2,627 lines written by AI, 148 lines written by hand (94.67% AI-written)
+✍️ 715 lines written by AI, 146 lines written by hand (83.04% AI-written)
 
-🔤 21,046,104 Input Tokens, 61,974 Output Tokens
+🔤 6,247,394 Input Tokens, 24,283 Output Tokens
 
-💵 $64.97 Estimated AI Cost This Week
+💵 $20.01 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 82 AI Prompts
+🧠 19 AI Sessions, 67 AI Prompts
 
-Mimo                     2,814 lines         █████████████████████████   99.65 % 
-Github-Copilot           10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Mimo                     871 lines           █████████████████████████   98.86 % 
+Github-Copilot           10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.67% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.11% of changed lines were hand-edited
+🤖 AI-Driven — 83.04% of written lines came from AI
+📝 Concise Prompter — average 431 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 17.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +80,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 19:03:20 UTC
+ Last Updated on 05/08/2026 19:01:54 UTC
 <!--END_SECTION:waka-->
 
