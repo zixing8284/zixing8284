@@ -4,7 +4,7 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C217%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C217%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2012%20mins-blue?style=flat)
 
@@ -46,24 +46,24 @@ Sunday                   302 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (78.39%)
+⏱ AI Coding Time: 2 hrs 45 mins (76.37%)
 
-✍️ 543 lines written by AI, 8 lines written by hand (98.55% AI-written)
+✍️ 20 lines written by AI, 6 lines written by hand (76.92% AI-written)
 
-🔤 3,078,800 Input Tokens, 11,794 Output Tokens
+🔤 1,586,466 Input Tokens, 7,955 Output Tokens
 
-💵 $9.41 Estimated AI Cost This Week
+💵 $4.88 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 33 AI Prompts
+🧠 14 AI Sessions, 24 AI Prompts
 
-Mimo                     544 lines           █████████████████████████   100.00 % 
+Mimo                     21 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
-📝 Concise Prompter — average 122 characters per prompt
+🤖 AI-Driven — 76.92% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
+🚀 High AI Trust — 25.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 18:45:18 UTC
+ Last Updated on 10/08/2026 18:47:09 UTC
 <!--END_SECTION:waka-->
 
