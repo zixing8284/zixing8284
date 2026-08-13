@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C219%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C220%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
@@ -46,23 +46,23 @@ Sunday                   302 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (73.17%)
+⏱ AI Coding Time: 3 hrs 3 mins (75.54%)
 
 ✍️ 32 lines written by AI, 266 lines written by hand (10.74% AI-written)
 
-🔤 260,980 Input Tokens, 1,203 Output Tokens
+🔤 291,951 Input Tokens, 1,744 Output Tokens
 
-💵 $0.80 Estimated AI Cost This Week
+💵 $1.32 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 22 AI Prompts
+🧠 9 AI Sessions, 31 AI Prompts
 
 Github-Copilot           54 lines            █████████████████████████   100.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 10.74% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 238 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 85.16% of changed lines were hand-edited
 ```
 
@@ -79,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 18:48:03 UTC
+ Last Updated on 13/08/2026 18:48:01 UTC
 <!--END_SECTION:waka-->
 
