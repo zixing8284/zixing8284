@@ -4,11 +4,11 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C226%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C227%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,25 +46,25 @@ Sunday                   208 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (85.8%)
+⏱ AI Coding Time: 4 hrs 47 mins (81.84%)
 
-✍️ 630 lines written by AI, 8 lines written by hand (98.75% AI-written)
+✍️ 545 lines written by AI, 11 lines written by hand (98.02% AI-written)
 
-🔤 417,965 Input Tokens, 32,941 Output Tokens
+🔤 319,288 Input Tokens, 16,401 Output Tokens
 
-💵 $42.27 Estimated AI Cost This Week
+💵 $17.44 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 61 AI Prompts
+🧠 16 AI Sessions, 60 AI Prompts
 
-Mimo                     749 lines           ██████████████████████░░░   88.74 % 
-Github-Copilot           95 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Mimo                     457 lines           █████████████████████░░░░   82.79 % 
+Github-Copilot           95 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
+🤖 AI-Driven — 98.02% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 49.06% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +80,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 18:45:27 UTC
+ Last Updated on 25/08/2026 18:45:01 UTC
 <!--END_SECTION:waka-->
 
