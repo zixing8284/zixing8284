@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C227%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C227%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,25 +46,24 @@ Sunday                   208 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 47 mins (81.84%)
+⏱ AI Coding Time: 3 hrs 10 mins (88.12%)
 
-✍️ 545 lines written by AI, 11 lines written by hand (98.02% AI-written)
+✍️ 2,062 lines written by AI, 5 lines written by hand (99.76% AI-written)
 
-🔤 319,288 Input Tokens, 16,401 Output Tokens
+🔤 691,687 Input Tokens, 39,608 Output Tokens
 
-💵 $17.44 Estimated AI Cost This Week
+💵 $38.70 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 60 AI Prompts
+🧠 11 AI Sessions, 44 AI Prompts
 
-Mimo                     457 lines           █████████████████████░░░░   82.79 % 
-Github-Copilot           95 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     2,055 lines         █████████████████████████   99.37 % 
+Github-Copilot           13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📝 Concise Prompter — average 173 characters per prompt
+🤖 AI-Driven — 99.76% of written lines came from AI
+📄 Detailed Prompter — average 562 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 59.71% of changed lines were hand-edited
+🚀 High AI Trust — 21.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 18:45:01 UTC
+ Last Updated on 26/08/2026 19:14:43 UTC
 <!--END_SECTION:waka-->
 
