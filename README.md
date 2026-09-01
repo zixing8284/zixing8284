@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C229%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C230%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,24 +46,24 @@ Sunday                   209 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (79.72%)
+⏱ AI Coding Time: 2 hrs 8 mins (68.75%)
 
-✍️ 2,222 lines written by AI, 8 lines written by hand (99.64% AI-written)
+✍️ 1,877 lines written by AI, 4 lines written by hand (99.79% AI-written)
 
-🔤 746,760 Input Tokens, 53,454 Output Tokens
+🔤 685,204 Input Tokens, 45,823 Output Tokens
 
-💵 $42.60 Estimated AI Cost This Week
+💵 $31.35 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 29 AI Prompts
+🧠 10 AI Sessions, 28 AI Prompts
 
-Mimo                     2,189 lines         █████████████████████████   100.00 % 
+Mimo                     1,838 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📄 Detailed Prompter — average 865 characters per prompt
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 739 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 18:37:52 UTC
+ Last Updated on 01/09/2026 18:38:23 UTC
 <!--END_SECTION:waka-->
 
