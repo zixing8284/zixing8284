@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C233%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C234%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,25 +46,25 @@ Sunday                   209 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (47.32%)
+⏱ AI Coding Time: 3 hrs 24 mins (52.77%)
 
-✍️ 462 lines written by AI, 33 lines written by hand (93.33% AI-written)
+✍️ 465 lines written by AI, 38 lines written by hand (92.45% AI-written)
 
-🔤 448,950 Input Tokens, 11,634 Output Tokens
+🔤 575,075 Input Tokens, 19,620 Output Tokens
 
-💵 $7.09 Estimated AI Cost This Week
+💵 $12.21 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 26 AI Prompts
+🧠 11 AI Sessions, 40 AI Prompts
 
-Github-Copilot           304 lines           █████████████████████████   100.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           304 lines           █████████████████░░░░░░░░   68.93 % 
+Mimo                     137 lines           ████████░░░░░░░░░░░░░░░░░   31.07 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.33% of written lines came from AI
-📝 Concise Prompter — average 236 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 31.68% of changed lines were hand-edited
+🤖 AI-Driven — 92.45% of written lines came from AI
+📝 Concise Prompter — average 164 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 32.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +80,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 18:36:09 UTC
+ Last Updated on 05/09/2026 18:35:32 UTC
 <!--END_SECTION:waka-->
 
