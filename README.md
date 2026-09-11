@@ -4,11 +4,11 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C240%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C240%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,25 +46,25 @@ Sunday                   211 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (52.53%)
+⏱ AI Coding Time: 4 hrs 19 mins (60.78%)
 
-✍️ 236 lines written by AI, 43 lines written by hand (84.59% AI-written)
+✍️ 277 lines written by AI, 41 lines written by hand (87.11% AI-written)
 
-🔤 238,390 Input Tokens, 21,371 Output Tokens
+🔤 278,555 Input Tokens, 21,516 Output Tokens
 
-💵 $17.18 Estimated AI Cost This Week
+💵 $17.30 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 42 AI Prompts
+🧠 12 AI Sessions, 46 AI Prompts
 
-Github-Copilot           267 lines           ███████████████████████░░   92.39 % 
-Mimo                     22 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Github-Copilot           308 lines           ███████████████████████░░   93.33 % 
+Mimo                     22 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.59% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
+🤖 AI-Driven — 87.11% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 28.99% of changed lines were hand-edited
+🚀 High AI Trust — 25.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +80,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 18:37:16 UTC
+ Last Updated on 11/09/2026 18:37:29 UTC
 <!--END_SECTION:waka-->
 
