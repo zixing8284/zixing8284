@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C240%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C242%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,25 +46,24 @@ Sunday                   211 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (61.89%)
+⏱ AI Coding Time: 3 hrs 43 mins (59.44%)
 
-✍️ 274 lines written by AI, 29 lines written by hand (90.43% AI-written)
+✍️ 412 lines written by AI, 216 lines written by hand (65.61% AI-written)
 
-🔤 238,977 Input Tokens, 33,922 Output Tokens
+🔤 171,532 Input Tokens, 30,341 Output Tokens
 
-💵 $36.81 Estimated AI Cost This Week
+💵 $33.47 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 10 AI Sessions, 38 AI Prompts
 
-Github-Copilot           308 lines           ████████████████████████░   94.19 % 
-Mimo                     19 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           447 lines           ████████████████████████░   96.96 % 
+Mimo                     14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.43% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
+⚖️ Balanced with AI — 65.61% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.33% of changed lines were hand-edited
+🚀 High AI Trust — 40.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 18:36:26 UTC
+ Last Updated on 14/09/2026 18:38:32 UTC
 <!--END_SECTION:waka-->
 
