@@ -4,11 +4,11 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C254%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C257%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,23 +46,26 @@ Sunday                   263 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 47 mins (88.07%)
 
-✍️ 239 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 791 lines written by AI, 1 lines written by hand (99.87% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 71,699 Input Tokens, 7,212 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $8.14 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 10 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
-Github-Copilot           240 lines           █████████████████████████   100.00 % 
+Opus                     834 lines           ███████████████████░░░░░░   75.20 % 
+Github-Copilot           240 lines           █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+MiMo                     35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 661 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📝 Concise Prompter — average 319 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,6 +81,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 18:45:28 UTC
+ Last Updated on 13/10/2026 18:44:41 UTC
 <!--END_SECTION:waka-->
 
