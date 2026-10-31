@@ -8,7 +8,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-275%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,23 +46,7 @@ Sunday                   212 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (58.92%)
-
-✍️ 106 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 104,007 Input Tokens, 12,970 Output Tokens
-
-💵 $4.37 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-MiMo                     106 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 44 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.93% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,6 +62,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 18:32:55 UTC
+ Last Updated on 31/10/2026 18:32:36 UTC
 <!--END_SECTION:waka-->
 
