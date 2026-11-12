@@ -4,9 +4,9 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C270%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C272%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
 
@@ -46,27 +46,27 @@ Sunday                   212 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 8 mins (88.31%)
+⏱ AI Coding Time: 5 hrs 15 mins (89.83%)
 
-✍️ 2,248 lines written by AI, 15 lines written by hand (99.34% AI-written)
+✍️ 2,220 lines written by AI, 15 lines written by hand (99.33% AI-written)
 
-🔤 7,923,446 Input Tokens, 1,128,622 Output Tokens
+🔤 3,781,369 Input Tokens, 585,568 Output Tokens
 
-💵 $34.89 Estimated AI Cost This Week
+💵 $5.73 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 50 AI Prompts
+🧠 13 AI Sessions, 42 AI Prompts
 
-GPT                      3,555 lines         ██████████████████████░░░   87.43 % 
-Github-Copilot           338 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Vscode                   167 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      3,532 lines         ██████████████████████░░░   87.49 % 
+Github-Copilot           338 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Vscode                   167 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
+🤖 AI-Driven — 99.33% of written lines came from AI
+📝 Concise Prompter — average 196 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,6 +82,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 00:54:20 UTC
+ Last Updated on 12/11/2026 23:44:38 UTC
 <!--END_SECTION:waka-->
 
