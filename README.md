@@ -4,11 +4,11 @@
 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C275%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C275%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,24 +46,24 @@ Sunday                   212 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (49.91%)
+⏱ AI Coding Time: 1 hr 57 mins (44.66%)
 
-✍️ 317 lines written by AI, 40 lines written by hand (88.8% AI-written)
+✍️ 317 lines written by AI, 43 lines written by hand (88.06% AI-written)
 
-🔤 1,667,931 Input Tokens, 218,530 Output Tokens
+🔤 1,752,046 Input Tokens, 227,801 Output Tokens
 
-💵 $1.28 Estimated AI Cost This Week
+💵 $2.60 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 9 AI Sessions, 24 AI Prompts
 
 GPT                      537 lines           █████████████████████████   98.35 % 
 MiMo                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.8% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
+🤖 AI-Driven — 88.06% of written lines came from AI
+📝 Concise Prompter — average 84 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.92% of changed lines were hand-edited
+🚀 High AI Trust — 14.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 18:33:28 UTC
+ Last Updated on 20/11/2026 18:33:15 UTC
 <!--END_SECTION:waka-->
 
