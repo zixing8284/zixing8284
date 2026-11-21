@@ -46,24 +46,24 @@ Sunday                   212 commits         ███░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (44.66%)
+⏱ AI Coding Time: 55 mins (30.53%)
 
-✍️ 317 lines written by AI, 43 lines written by hand (88.06% AI-written)
+✍️ 12 lines written by AI, 37 lines written by hand (24.49% AI-written)
 
-🔤 1,752,046 Input Tokens, 227,801 Output Tokens
+🔤 214,359 Input Tokens, 16,270 Output Tokens
 
-💵 $2.60 Estimated AI Cost This Week
+💵 $1.91 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 24 AI Prompts
+🧠 8 AI Sessions, 15 AI Prompts
 
-GPT                      537 lines           █████████████████████████   98.35 % 
-MiMo                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+MiMo                     9 lines             █████████████░░░░░░░░░░░░   52.94 % 
+GPT                      8 lines             ████████████░░░░░░░░░░░░░   47.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.06% of written lines came from AI
-📝 Concise Prompter — average 84 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.95% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.49% of written lines came from AI
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 83.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,6 +79,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 18:33:15 UTC
+ Last Updated on 21/11/2026 18:33:22 UTC
 <!--END_SECTION:waka-->
 
